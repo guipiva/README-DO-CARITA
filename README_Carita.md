@@ -1,4 +1,4 @@
-  COLOCAR A IMAGEM DO CARITA
+  ![Imagem do logo](./FATEC/Logo%20Caritá.svg)
 
   FAZER UMA BARRINHA QUE VAI DIRETO PARA ONDE FOR CLICADO
 
@@ -10,12 +10,12 @@
   A ideia surgiu com a vontade de usar a tecnologia pra causar um impacto real, alinhado com três dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
   Nosso foco é aproximar quem quer ajudar de quem precisa, tornando a solidariedade mais acessível, transparente e confiável.
 
-  ## 📒 ESCOPO
+  ## 📙 ESCOPO
   
   A documentação mostra todos os aspectos do desenvolvimento do site, como: desing do desenvolvimento, as definições de requisitos,
   testes, como fazer a implantação, como testar ele. A intenção de mostrarmos tudo isso, é dar uma visão mais completa e detalhada do projeto, garantindo a compreensão de desenvolvedores e outras pessoas.
 
-  ## 📒 METOLODIA
+  ## 📕 METOLODIA
 
   O desenvolvimento do nosso projeto, seguiu conforme o andamento das nossas matérias e necessidades. Usamos a pratica de desenvolvimento ágil(scrum) para que pudessemos ter mais flexibilidade e facilidade em se organizar. A documentação foi sendo feita em paralaleo com o desenvolvimento do projeto, para que estivessemos sempre atualizando. 
 
@@ -25,7 +25,10 @@
 
   ## 📚DIAGRAMA DE CLASSES
 
-  ## 📚REQUISITOS FUNCIONAIS e nao funcionais
+  ## 📗REQUISITOS FUNCIONAIS 
+  ![Imagem dos requisitos funcionais](./FATEC/Book%201.pdf)
+
+  ## 📕REQUISITOS NÃO FUNCIONAIS
 
   ## 📅 Entregas de Sprints
 
@@ -93,27 +96,27 @@
 <table>
   <tr>
     <td>Ariele Peres</td>
-    <td>Desenvolvedora</td>
+    <td>Desenvolvedora Full Stack</td>
   </tr>
   <tr>
-    <td>Fernando</td>
-    <td>Desenvolvedor</td>
+    <td>Fernando Ribeiro</td>
+    <td>Product Owner</td>
   </tr>
   <tr>
     <td>Guilherme Pazetti</td>
-    <td>Desenvolvedor</td>
+    <td>Database Administrator</td>
   </tr>
   <tr>
     <td>Guilherme Piva</td>
-    <td>Desenvolvedor</td>
+    <td>Product Owner</td>
   </tr>
   <tr>
     <td>Mayara Ribeiro</td>
-    <td>Desenvolvedora</td>
+    <td>Scrum Master</td>
   </tr>
   <tr>
     <td>Vanessa Bianca</td>
-    <td>Desenvolvedora</td>
+    <td>Desenvolvedora Full Stack</td>
   </tr>
 </table>
 
