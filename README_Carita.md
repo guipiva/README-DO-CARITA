@@ -131,35 +131,60 @@
     <tr>
       <td>Ariele Peres</td>
       <td>Desenvolvedora Full Stack</td>
-      <td><a href="#"> [![GitHub Badge] (https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)] (https://github.com/arieleperes)</a></td>
+      <td>
+        <a href="https://github.com/arieleperes" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Fernando Ribeiro</td>
       <td>Product Owner</td>
-      <td><a href="#"> [![GitHub Badge] (https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)] (https://github.com/arieleperes)</a></td>
+      <td>
+        <a href="https://github.com/arieleperes" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Guilherme Pazetti</td>
       <td>Database Administrator</td>
-      <td><a href="#"> [![GitHub Badge] (https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)] (https://github.com/arieleperes)</a></td>
+      <td>
+        <a href="https://github.com/arieleperes" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Guilherme Piva</td>
       <td>Product Owner</td>
-      <td><a href="#"> [![GitHub Badge] (https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)] (https://github.com/guipiva)</a></td>
+      <td>
+        <a href="https://github.com/guipiva" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Mayara Ribeiro</td>
       <td>Scrum Master</td>
-      <td><a href="#"> [![GitHub Badge] (https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)] (https://github.com/Mayarasb)</a></td>
+      <td>
+        <a href="https://github.com/Mayarasb" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Vanessa Capuano</td>
       <td>Desenvolvedora Full Stack</td>
-      <td><a href="#"> [![link do github](https://github.com/YaraPaesB)]</a></td>
+      <td>
+        <a href="https://github.com/arieleperes" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YaraPaesB)
 
