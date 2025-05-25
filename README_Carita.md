@@ -196,8 +196,6 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
   </tbody>
 </table>
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YaraPaesB)
-
 ## 💻 PRÉ-REQUISITOS
 
 Antes de rodar o projeto, certifique-se de ter instalado:
