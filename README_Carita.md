@@ -41,14 +41,6 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 ![Image](https://github.com/user-attachments/assets/d44ab38a-9592-43b1-b936-74cf2592c9cb)
 
 ## 📗 REQUISITOS FUNCIONAIS 
-![Imagem dos requisitos funcionais](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/Book%201.pdf)
-
-![Image](https://github.com/user-attachments/assets/4c9b9386-a913-41aa-b148-c139d37c6b93)
-
-[Book 1.pdf](https://github.com/user-attachments/files/20431085/Book.1.pdf)
-
-![Image](https://github.com/user-attachments/assets/c452c685-e3ca-4c09-a824-6de11d2252a4)
-
 ![Image](https://github.com/user-attachments/assets/8d394a28-25de-45d2-8d8b-b0a685156071)
 
 ## 📕 REQUISITOS NÃO FUNCIONAIS
