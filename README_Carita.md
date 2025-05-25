@@ -94,14 +94,12 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 
 ![Image](https://github.com/user-attachments/assets/a5b6c699-2bcd-4f2b-9333-863fc28d5b92)
 
-## 📅 GERENCIAMENTO DE CRONOGRAMA 
-![Imagem do gerenciamento de cronograma](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/print-sprint-hira.jpeg)
+![Image](https://github.com/user-attachments/assets/a632e9a5-3ba6-4e5f-bb7b-3b06bd0bbe89)
 
+## 📅 GERENCIAMENTO DE CRONOGRAMA 
 ![Image](https://github.com/user-attachments/assets/b5f3b9ca-f41f-40b5-8606-38eb6485759b)
 
 ## 📚 BACKLOG
-![Imagem do backlog](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/backlog.png)
-
 ![Image](https://github.com/user-attachments/assets/45063692-2602-4a8e-879a-09cfb453b42c)
 
 ## 🖥️ PROTÓTIPO E DOCUMENTAÇÃO
