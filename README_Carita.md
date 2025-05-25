@@ -1,47 +1,46 @@
-  ![Imagem do logo](https://https://github.com/guipiva/README-DO-CARITA/blob/main/README_Carita.md/imagens/Banner%20Caritá.jpg)
+![Imagem do logo](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/Banner%20Caritá.jpg)
 
-  <p align="center">
-    <a href="#sobre">Sobre</a>  |  
-    <a href="#publico">Publico</a>  |
-    <a href="#sprints">Sprints</a>  |
-    <a href="#backlog">Backlog</a>  |  
-    <a href="#prototipo">Protótipo & Documentação</a>  |  
-    <a href="#tecnologias">Tecnologias</a>  |  
-    <a href="#equipe">Equipe</a>
-  </p>
+<p align="center">
+  <a href="#sobre">Sobre</a>  |  
+  <a href="#publico">Publico</a>  |
+  <a href="#sprints">Sprints</a>  |
+  <a href="#backlog">Backlog</a>  |  
+  <a href="#prototipo-e-documentação">Protótipo & Documentação</a>  |  
+  <a href="#tecnologias-utilizadas">Tecnologias</a>  |  
+  <a href="#equipe">Equipe</a>
+</p>
 
-  ## 📌 Status do Projeto : Em andamento
+## 📌 Status do Projeto : Em andamento
 
-  ## 📖 SOBRE O PROJETO
+## 📖 SOBRE O PROJETO
 
-  Cárita é um site que conecta ONGs a pessoas que querem fazer a diferença — seja com doações, parcerias ou simplesmente ajudando a divulgar. A gente também mostra pontos de arrecadação confiáveis, pra facilitar e incentivar ações solidárias seguras.
-  A ideia surgiu com a vontade de usar a tecnologia pra causar um impacto real, alinhado com três dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
-  Nosso foco é aproximar quem quer ajudar de quem precisa, tornando a solidariedade mais acessível, transparente e confiável.
+Cárita é um site que conecta ONGs a pessoas que querem fazer a diferença — seja com doações, parcerias ou simplesmente ajudando a divulgar. A gente também mostra pontos de arrecadação confiáveis, pra facilitar e incentivar ações solidárias seguras.
+A ideia surgiu com a vontade de usar a tecnologia pra causar um impacto real, alinhado com três dos Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
+Nosso foco é aproximar quem quer ajudar de quem precisa, tornando a solidariedade mais acessível, transparente e confiável.
 
-  ## 📙 ESCOPO
-  
-  A documentação mostra todos os aspectos do desenvolvimento do site, como: desing do desenvolvimento, as definições de requisitos,
-  testes, como fazer a implantação, como testar ele. A intenção de mostrarmos tudo isso, é dar uma visão mais completa e detalhada do projeto, garantindo a compreensão de desenvolvedores e outras pessoas.
+## 📙 ESCOPO
 
-  ## 📕 METOLODIA
+A documentação mostra todos os aspectos do desenvolvimento do site, como: desing do desenvolvimento, as definições de requisitos,
+testes, como fazer a implantação, como testar ele. A intenção de mostrarmos tudo isso, é dar uma visão mais completa e detalhada do projeto, garantindo a compreensão de desenvolvedores e outras pessoas.
 
-  O desenvolvimento do nosso projeto, seguiu conforme o andamento das nossas matérias e necessidades. Usamos a pratica de desenvolvimento ágil(scrum) para que pudessemos ter mais flexibilidade e facilidade em se organizar. A documentação foi sendo feita em paralaleo com o desenvolvimento do projeto, para que estivessemos sempre atualizando. 
+## 📕 METODOLOGIA
 
-  ## 👥 INDENTIFICAÇÃO PUBLICO ALVO
+O desenvolvimento do nosso projeto, seguiu conforme o andamento das nossas matérias e necessidades. Usamos a prática de desenvolvimento ágil (Scrum) para que pudéssemos ter mais flexibilidade e facilidade em se organizar. A documentação foi sendo feita em paralelo com o desenvolvimento do projeto, para que estivéssemos sempre atualizando. 
 
-  Nosso público-alvo é composto por pessoas físicas engajadas com causas sociais e empresas que buscam promover responsabilidade social por meio de doações seguras e impactantes. Também atendemos ONGs de diversas áreas que necessitam de apoio financeiro ou material para continuar suas atividades. O site conecta doadores conscientes a instituições sérias, criando uma ponte confiável e transparente. Nosso foco está em indivíduos solidários e organizações comprometidas com os Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
+## 👥 IDENTIFICAÇÃO PÚBLICO ALVO
 
-  ## 📚 DIAGRAMA DE CLASSES
-  ![Imagem dos diagramas de classes](https://github.com/guipiva/README_Carita/imagens/imagem.png)
+Nosso público-alvo é composto por pessoas físicas engajadas com causas sociais e empresas que buscam promover responsabilidade social por meio de doações seguras e impactantes. Também atendemos ONGs de diversas áreas que necessitam de apoio financeiro ou material para continuar suas atividades. O site conecta doadores conscientes a instituições sérias, criando uma ponte confiável e transparente. Nosso foco está em indivíduos solidários e organizações comprometidas com os Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
 
-  ## 📗 REQUISITOS FUNCIONAIS 
-  ![Imagem dos requisitos funcionais](/imagens/Book%201.pdf)
+## 📚 DIAGRAMA DE CLASSES
+![Imagem dos diagramas de classes](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/imagem.png)
 
-  ## 📕 REQUISITOS NÃO FUNCIONAIS
-  ![Imagem dos requisitos nao funcionais](https://github.com/guipiva/README_Carita/imagens/BookRNF.pdf)
+## 📗 REQUISITOS FUNCIONAIS 
+![Imagem dos requisitos funcionais](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/Book%201.pdf)
 
+## 📕 REQUISITOS NÃO FUNCIONAIS
+![Imagem dos requisitos não funcionais](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/BookRNF.pdf)
 
-  ## 📅 ENTREGA DAS SPRINTS
+## 📅 ENTREGA DAS SPRINTS
 
 <table>
   <tr>
@@ -65,7 +64,7 @@
   <tr>
     <td>Sprint 3</td>
     <td>01/04 - 30/04</td>
-    <td>Finalização do Back-End e inicio da integração</td>
+    <td>Finalização do Back-End e início da integração</td>
     <td>✅ Concluído</td>
   </tr>
   <tr>
@@ -76,37 +75,38 @@
   </tr>
   <tr>
     <td>Sprint 5</td>
-    <td>1/06 - 27/09</td>
+    <td>01/06 - 27/09</td>
     <td>Fase de teste final, documentação pronta e projeto integrado e funcionando</td>
     <td>🟡 A iniciar</td>
   </tr>
 </table>
 
-  ## 💻🖥️  DEMONSTRAÇÃO DAS TELAS
-  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/README_Carita/imagens/pagina-inicial.png)
+## 💻🖥️ DEMONSTRAÇÃO DAS TELAS
 
-  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/README_Carita/imagens/missao-valores.png)
+![Página inicial](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/pagina-inicial.png)
 
-  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/README_Carita/imagens/contato.png)
+![Missão e valores](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/missao-valores.png)
 
-  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/README_Carita/imagens/login.png)
+![Contato](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/contato.png)
 
-  ## 📅 GERENCIAMENTO DE CRONOGRAMA 
-  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/README_Carita/imagens/print-sprint-hira.jpeg)
+![Login](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/login.png)
 
-  ## 📚 BACKLOG
-  ![Imagem do backlog](https://github.com/guipiva/README_Carita/imagens/backlog.png)
+## 📅 GERENCIAMENTO DE CRONOGRAMA 
+![Imagem do gerenciamento de cronograma](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/print-sprint-hira.jpeg)
 
+## 📚 BACKLOG
+![Imagem do backlog](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/backlog.png)
 
-  ## 🖥️  PROTOTIPO E DOCUMENTAÇÃO
-  > 🔗 **Links das documentações** 
+## 🖥️ PROTÓTIPO E DOCUMENTAÇÃO
 
-  > - Documentação geral: [clique aqui para acessar]()
-  > - Técnicas de Programação: [clique aqui para acessar]()
-  > - Interação Humano Computador: [clique aqui para acessar]()
-  > - Banco de Dados não relacional - API: [clique aqui para acessar]()
-  
-  ## 🛠️ TECNOLOGIAS UTILIZADAS
+> 🔗 **Links das documentações** 
+
+> - Documentação geral: [clique aqui para acessar]()
+> - Técnicas de Programação: [clique aqui para acessar]()
+> - Interação Humano Computador: [clique aqui para acessar]()
+> - Banco de Dados não relacional - API: [clique aqui para acessar]()
+
+## 🛠️ TECNOLOGIAS UTILIZADAS
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -123,7 +123,7 @@
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-  ## 👥 EQUIPE
+## 👥 EQUIPE
 
 <table>
   <thead>
@@ -191,7 +191,6 @@
   </tbody>
 </table>
 
-
 [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YaraPaesB)
 
 ## 💻 PRÉ-REQUISITOS
@@ -217,10 +216,8 @@ npm install
 
 # Rode o projeto
 ng serve
-```
-
-A aplicação estará disponível em `http://localhost:4200`.
 
 ## 📄 LICENÇA
 
-Este projeto está sob a licença [MIT](./LICENSE).
+Este projeto está licenciado sob a Licença MIT.
+Você pode ver os detalhes dessa licença no arquivo LICENSE.
