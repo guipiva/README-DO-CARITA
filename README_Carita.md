@@ -1,4 +1,4 @@
-  ![Imagem do logo](https://github.com/guipiva/readme/README_Carita/main/imagens/Banner%20Caritá.jpg)
+  ![Imagem do logo](https://github.com/guipiva/README_Carita/main/imagens/Banner%20Caritá.jpg)
 
   <p align="center">
     <a href="#sobre">Sobre</a>  |  
@@ -32,13 +32,13 @@
   Nosso público-alvo é composto por pessoas físicas engajadas com causas sociais e empresas que buscam promover responsabilidade social por meio de doações seguras e impactantes. Também atendemos ONGs de diversas áreas que necessitam de apoio financeiro ou material para continuar suas atividades. O site conecta doadores conscientes a instituições sérias, criando uma ponte confiável e transparente. Nosso foco está em indivíduos solidários e organizações comprometidas com os Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
 
   ## 📚 DIAGRAMA DE CLASSES
-  ![Imagem dos diagramas de classes](https://github.com/guipiva/readme/README_Carita/imagens/imagem.png)
+  ![Imagem dos diagramas de classes](https://github.com/guipiva/README_Carita/imagens/imagem.png)
 
   ## 📗 REQUISITOS FUNCIONAIS 
   ![Imagem dos requisitos funcionais](/imagens/Book%201.pdf)
 
   ## 📕 REQUISITOS NÃO FUNCIONAIS
-  ![Imagem dos requisitos nao funcionais](https://github.com/guipiva/readme/README_Carita/imagens/BookRNF.pdf)
+  ![Imagem dos requisitos nao funcionais](https://github.com/guipiva/README_Carita/imagens/BookRNF.pdf)
 
 
   ## 📅 ENTREGA DAS SPRINTS
@@ -83,19 +83,19 @@
 </table>
 
   ## 💻🖥️  DEMONSTRAÇÃO DAS TELAS
-  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/pagina-inicial.png)
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/README_Carita/imagens/pagina-inicial.png)
 
-  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/missao-valores.png)
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/README_Carita/imagens/missao-valores.png)
 
-  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/contato.png)
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/README_Carita/imagens/contato.png)
 
-  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/login.png)
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/README_Carita/imagens/login.png)
 
   ## 📅 GERENCIAMENTO DE CRONOGRAMA 
-  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/print-sprint-hira.jpeg)
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/README_Carita/imagens/print-sprint-hira.jpeg)
 
   ## 📚 BACKLOG
-  ![Imagem do backlog](https://github.com/guipiva/readme/README_Carita/imagens/backlog.png)
+  ![Imagem do backlog](https://github.com/guipiva/README_Carita/imagens/backlog.png)
 
 
   ## 🖥️  PROTOTIPO E DOCUMENTAÇÃO
