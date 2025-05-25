@@ -53,44 +53,50 @@
   <tr>
     <td>Sprint 1</td>
     <td>01/02 - 28/02</td>
-    <td>Levantamento de requisitos, definição das ODS, esboço do protótipo</td>
+    <td>Levantamento dos novos requisitos e itens que irão ser adicionados</td>
     <td>✅ Concluído</td>
   </tr>
   <tr>
     <td>Sprint 2</td>
     <td>01/03 - 31/03</td>
-    <td>Criação do banco de dados, modelagem no BrModelo, início do front-end</td>
+    <td>Criação do Back-End e detalhamento das tarefas</td>
     <td>✅ Concluído</td>
   </tr>
   <tr>
     <td>Sprint 3</td>
     <td>01/04 - 30/04</td>
-    <td>Integração com back-end, telas de cadastro de ONGs e doadores</td>
+    <td>Finalização do Back-End e inicio da integração</td>
     <td>✅ Concluído</td>
   </tr>
   <tr>
     <td>Sprint 4</td>
     <td>01/05 - 31/05</td>
-    <td>Funcionalidades de parceiros e pontos de arrecadação</td>
+    <td>Alinhamento e fase de teste para completar integração e complemento de documentação</td>
     <td>✅ Concluído</td>
   </tr>
   <tr>
     <td>Sprint 5</td>
-    <td>29/04 - 05/05</td>
-    <td>Refinamento, testes, ajustes finais e documentação</td>
+    <td>1/06 - 27/09</td>
+    <td>Fase de teste final, documentação pronta e projeto integrado e funcionando</td>
     <td>🟡 A iniciar</td>
   </tr>
 </table>
 
-  Usamos o Trello e o Jira, para nos auxiliar no controle das tarefas.
-
-    > - Projeto - Jira: [clique aqui para acessar]()
-
   ## 💻🖥️  DEMONSTRAÇÃO DAS TELAS
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/pagina-inicial.png)
+
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/missao-valores.png)
+
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/contato.png)
+
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/login.png)
 
   ## 📅 GERENCIAMENTO DE CRONOGRAMA 
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/print-sprint-hira.jpeg)
 
   ## 📚 BACKLOG
+  ![Imagem do backlog](https://github.com/guipiva/readme/README_Carita/imagens/backlog.png)
+
 
   ## 🖥️  PROTOTIPO E DOCUMENTAÇÃO
   > 🔗 **Links das documentações** 
