@@ -1,4 +1,4 @@
-  ![Imagem do logo](https://github.com/guipiva/README_Carita/main/imagens/Banner%20Caritá.jpg)
+  ![Imagem do logo](https://https://github.com/guipiva/README-DO-CARITA/blob/main/README_Carita.md/imagens/Banner%20Caritá.jpg)
 
   <p align="center">
     <a href="#sobre">Sobre</a>  |  
