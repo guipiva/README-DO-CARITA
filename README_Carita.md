@@ -223,4 +223,10 @@ npm install
 
 # Rode o projeto
 ng serve
+```
 
+A aplicação estará disponível em `http://localhost:4200`.
+
+## 📄 LICENÇA
+
+Este projeto está sob a licença [MIT](./LICENSE).
