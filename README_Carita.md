@@ -1,6 +1,6 @@
 ![Imagem do logo](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/Banner%20Caritá.jpg)
 
-https://github.com/guipiva/README-DO-CARITA/issues/1#issue-3089294578
+![imagem carita banner](https://github.com/guipiva/README-DO-CARITA/issues/1#issue-3089294578)
 
 <p align="center">
   <a href="#sobre">Sobre</a>  |  
