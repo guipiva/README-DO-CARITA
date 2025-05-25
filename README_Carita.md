@@ -43,8 +43,12 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 ## 📗 REQUISITOS FUNCIONAIS 
 ![Imagem dos requisitos funcionais](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/Book%201.pdf)
 
+[Book 1.pdf](https://github.com/user-attachments/files/20431085/Book.1.pdf)
+
 ## 📕 REQUISITOS NÃO FUNCIONAIS
 ![Imagem dos requisitos não funcionais](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/BookRNF.pdf)
+
+[Book RNF.pdf](https://github.com/user-attachments/files/20431086/Book.RNF.pdf)
 
 ## 📅 ENTREGA DAS SPRINTS
 
@@ -100,8 +104,12 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 ## 📅 GERENCIAMENTO DE CRONOGRAMA 
 ![Imagem do gerenciamento de cronograma](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/print-sprint-hira.jpeg)
 
+![Image](https://github.com/user-attachments/assets/b5f3b9ca-f41f-40b5-8606-38eb6485759b)
+
 ## 📚 BACKLOG
 ![Imagem do backlog](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/backlog.png)
+
+![Image](https://github.com/user-attachments/assets/45063692-2602-4a8e-879a-09cfb453b42c)
 
 ## 🖥️ PROTÓTIPO E DOCUMENTAÇÃO
 
