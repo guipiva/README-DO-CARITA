@@ -1,4 +1,4 @@
-  ![Imagem do logo](/imagens/Banner%20Caritá.jpg)
+  ![Imagem do logo](https://github.com/guipiva/readme/README_Carita/main/imagens/Banner%20Caritá.jpg)
 
   <p align="center">
     <a href="#sobre">Sobre</a>  |  
@@ -32,11 +32,14 @@
   Nosso público-alvo é composto por pessoas físicas engajadas com causas sociais e empresas que buscam promover responsabilidade social por meio de doações seguras e impactantes. Também atendemos ONGs de diversas áreas que necessitam de apoio financeiro ou material para continuar suas atividades. O site conecta doadores conscientes a instituições sérias, criando uma ponte confiável e transparente. Nosso foco está em indivíduos solidários e organizações comprometidas com os Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
 
   ## 📚 DIAGRAMA DE CLASSES
+  ![Imagem dos diagramas de classes](https://github.com/guipiva/readme/README_Carita/imagens/imagem.png)
 
   ## 📗 REQUISITOS FUNCIONAIS 
   ![Imagem dos requisitos funcionais](/imagens/Book%201.pdf)
 
   ## 📕 REQUISITOS NÃO FUNCIONAIS
+  ![Imagem dos requisitos nao funcionais](https://github.com/guipiva/readme/README_Carita/imagens/BookRNF.pdf)
+
 
   ## 📅 ENTREGA DAS SPRINTS
 
@@ -50,40 +53,50 @@
   <tr>
     <td>Sprint 1</td>
     <td>01/02 - 28/02</td>
-    <td>Levantamento de requisitos, definição das ODS, esboço do protótipo</td>
+    <td>Levantamento dos novos requisitos e itens que irão ser adicionados</td>
     <td>✅ Concluído</td>
   </tr>
   <tr>
     <td>Sprint 2</td>
     <td>01/03 - 31/03</td>
-    <td>Criação do banco de dados, modelagem no BrModelo, início do front-end</td>
+    <td>Criação do Back-End e detalhamento das tarefas</td>
     <td>✅ Concluído</td>
   </tr>
   <tr>
     <td>Sprint 3</td>
     <td>01/04 - 30/04</td>
-    <td>Integração com back-end, telas de cadastro de ONGs e doadores</td>
+    <td>Finalização do Back-End e inicio da integração</td>
     <td>✅ Concluído</td>
   </tr>
   <tr>
     <td>Sprint 4</td>
     <td>01/05 - 31/05</td>
-    <td>Funcionalidades de parceiros e pontos de arrecadação</td>
-    <td>🟡 Em andamento</td>
+    <td>Alinhamento e fase de teste para completar integração e complemento de documentação</td>
+    <td>✅ Concluído</td>
   </tr>
   <tr>
     <td>Sprint 5</td>
-    <td>29/04 - 05/05</td>
-    <td>Refinamento, testes, ajustes finais e documentação</td>
-    <td>🔜 A iniciar</td>
+    <td>1/06 - 27/09</td>
+    <td>Fase de teste final, documentação pronta e projeto integrado e funcionando</td>
+    <td>🟡 A iniciar</td>
   </tr>
 </table>
 
   ## 💻🖥️  DEMONSTRAÇÃO DAS TELAS
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/pagina-inicial.png)
+
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/missao-valores.png)
+
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/contato.png)
+
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/login.png)
 
   ## 📅 GERENCIAMENTO DE CRONOGRAMA 
+  ![Imagem dos gerenciamento de sprints](https://github.com/guipiva/readme/README_Carita/imagens/print-sprint-hira.jpeg)
 
   ## 📚 BACKLOG
+  ![Imagem do backlog](https://github.com/guipiva/readme/README_Carita/imagens/backlog.png)
+
 
   ## 🖥️  PROTOTIPO E DOCUMENTAÇÃO
   > 🔗 **Links das documentações** 
@@ -110,7 +123,6 @@
   <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"/>
 </p>
 
-
   ## 👥 EQUIPE
 
 <table>
@@ -125,37 +137,62 @@
     <tr>
       <td>Ariele Peres</td>
       <td>Desenvolvedora Full Stack</td>
-      <td><a href="#">@ariele</a></td>
+      <td>
+        <a href="https://github.com/arieleperes" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Fernando Ribeiro</td>
       <td>Product Owner</td>
-      <td><a href="#">@fernando</a></td>
+      <td>
+        <a href="https://github.com/arieleperes" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Guilherme Pazetti</td>
       <td>Database Administrator</td>
-      <td><a href="#">@pazetti</a></td>
+      <td>
+        <a href="https://github.com/arieleperes" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Guilherme Piva</td>
       <td>Product Owner</td>
-      <td><a href="#">@piva</a></td>
+      <td>
+        <a href="https://github.com/guipiva" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Mayara Ribeiro</td>
       <td>Scrum Master</td>
-      <td><a href="#">@mayara</a></td>
+      <td>
+        <a href="https://github.com/Mayarasb" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+        </a>
+      </td>
     </tr>
     <tr>
       <td>Vanessa Capuano</td>
       <td>Desenvolvedora Full Stack</td>
-      <td><a href="#">@vanessa</a></td>
+      <td>
+        <a href="https://github.com/arieleperes" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
 
 
+[![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/YaraPaesB)
 
 ## 💻 PRÉ-REQUISITOS
 
