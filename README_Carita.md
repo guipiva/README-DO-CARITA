@@ -47,6 +47,8 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 
 [Book 1.pdf](https://github.com/user-attachments/files/20431085/Book.1.pdf)
 
+![Image](https://github.com/user-attachments/assets/c452c685-e3ca-4c09-a824-6de11d2252a4)
+
 ## 📕 REQUISITOS NÃO FUNCIONAIS
 ![Imagem dos requisitos não funcionais](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/BookRNF.pdf)
 
