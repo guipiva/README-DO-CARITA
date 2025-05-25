@@ -38,6 +38,8 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 ## 📚 DIAGRAMA DE CLASSES
 ![Imagem dos diagramas de classes](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/imagem.png)
 
+![Image](https://github.com/user-attachments/assets/d44ab38a-9592-43b1-b936-74cf2592c9cb)
+
 ## 📗 REQUISITOS FUNCIONAIS 
 ![Imagem dos requisitos funcionais](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/Book%201.pdf)
 
