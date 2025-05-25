@@ -2,6 +2,8 @@
 
 ![imagem carita banner](https://github.com/guipiva/README-DO-CARITA/issues/1#issue-3089294578)
 
+![Image](https://github.com/user-attachments/assets/c001c2d9-8e5d-4671-a09d-bad60fdf3811)
+
 <p align="center">
   <a href="#sobre">Sobre</a>  |  
   <a href="#publico">Publico</a>  |
