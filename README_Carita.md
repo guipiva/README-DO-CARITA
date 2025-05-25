@@ -1,7 +1,3 @@
-![Imagem do logo](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/Banner%20Caritá.jpg)
-
-![imagem carita banner](https://github.com/guipiva/README-DO-CARITA/issues/1#issue-3089294578)
-
 ![Image](https://github.com/user-attachments/assets/c001c2d9-8e5d-4671-a09d-bad60fdf3811)
 
 <p align="center">
@@ -44,11 +40,7 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 ![Image](https://github.com/user-attachments/assets/8d394a28-25de-45d2-8d8b-b0a685156071)
 
 ## 📕 REQUISITOS NÃO FUNCIONAIS
-![Imagem dos requisitos não funcionais](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/BookRNF.pdf)
-
-![Image](https://github.com/user-attachments/assets/c5f0b36b-3d5e-429b-b0b4-94b0c3ada059)
-
-[Book RNF.pdf](https://github.com/user-attachments/files/20431086/Book.RNF.pdf)
+![Image](https://github.com/user-attachments/assets/f4cb3a9d-0972-4638-9db1-d3fd842113ab)
 
 ## 📅 ENTREGA DAS SPRINTS
 
