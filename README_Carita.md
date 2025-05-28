@@ -32,8 +32,6 @@ O desenvolvimento do nosso projeto, seguiu conforme o andamento das nossas maté
 Nosso público-alvo é composto por pessoas físicas engajadas com causas sociais e empresas que buscam promover responsabilidade social por meio de doações seguras e impactantes. Também atendemos ONGs de diversas áreas que necessitam de apoio financeiro ou material para continuar suas atividades. O site conecta doadores conscientes a instituições sérias, criando uma ponte confiável e transparente. Nosso foco está em indivíduos solidários e organizações comprometidas com os Objetivos de Desenvolvimento Sustentável (ODS) da ONU.
 
 ## 📚 DIAGRAMA DE CLASSES
-![Imagem dos diagramas de classes](https://raw.githubusercontent.com/guipiva/README_Carita/main/imagens/imagem.png)
-
 ![Image](https://github.com/user-attachments/assets/d44ab38a-9592-43b1-b936-74cf2592c9cb)
 
 ## 📗 REQUISITOS FUNCIONAIS 
@@ -100,9 +98,7 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 ![Image](https://github.com/user-attachments/assets/b5f3b9ca-f41f-40b5-8606-38eb6485759b)
 
 ## 📚 BACKLOG
-![Image](https://github.com/user-attachments/assets/817b3988-aaab-4028-afbb-5d402faab6de)
-
-![Image](https://github.com/user-attachments/assets/45063692-2602-4a8e-879a-09cfb453b42c)
+![Image](https://github.com/user-attachments/assets/26d2ce94-2389-4c59-ba8a-9772847a4aeb)
 
 ## 🖥️ PROTÓTIPO E DOCUMENTAÇÃO
 
@@ -178,7 +174,7 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
       </td>
     </tr>
     <tr>
-      <td>Mayara Ribeiro</td>
+      <td>Mayara Barros</td>
       <td>Scrum Master</td>
       <td>
         <a href="https://github.com/Mayarasb" target="_blank">
@@ -198,34 +194,76 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
   </tbody>
 </table>
 
-## 💻 PRÉ-REQUISITOS
+## 📊 **API Endpoints**
 
-Antes de rodar o projeto, certifique-se de ter instalado:
+### **Autenticação**
+```http
+POST /api/auth/login              # Login de usuários
+POST /api/auth/register/fornecedor # Cadastro de fornecedores
+POST /api/auth/register/beneficiario # Cadastro de beneficiários
+```
 
+### **Lançamentos**
+```http
+GET    /api/lancamentos           # Listar lançamentos
+POST   /api/lancamentos           # Criar lançamento
+PUT    /api/lancamentos/:id       # Atualizar lançamento
+DELETE /api/lancamentos/:id       # Excluir lançamento
+```
+
+## 📦 **Instalação e Configuração**
+
+### **Pré-requisitos**
+- npm ou yarn
+- Git
 - [Node.js](https://nodejs.org/)
 - Angular CLI
 - TypeScript
 - SQL Server (para o banco de dados)
 
-## 🔧 COMO RODAR O PROJETO
-
-
-
+### **Clone o Repositório**
 ```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/carita.git
-
-# Acesse a pasta do projeto
-cd carita
-
-# Instale as dependências
-npm install
-
-# Rode o projeto
-ng serve
+git clone https://github.com/carita/projeto-carita.git
+cd projeto-carita
 ```
 
-A aplicação estará disponível em `http://localhost:4200`.
+### **Backend Setup**
+```bash
+# Navegar para o diretório do backend
+cd backend
+
+# Instalar dependências
+npm install
+
+# Configurar variáveis de ambiente
+cp .env.example .env
+# Edite o arquivo .env com suas configurações
+
+# Inicializar banco de dados
+npm run init-db
+
+# Rodar em modo desenvolvimento
+npm run dev
+
+# Ou rodar em produção
+npm start
+```
+
+### **Frontend Setup**
+```bash
+# Navegar para o diretório do frontend
+cd Projeto-carita-main
+
+# Instalar dependências
+npm install
+
+# Rodar em modo desenvolvimento
+npm run dev
+
+# Ou rodar em produção
+npm run build
+npm run serve:ssr:Projeto-carita
+```
 
 ## 📄 LICENÇA
 
