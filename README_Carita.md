@@ -100,6 +100,8 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 ![Image](https://github.com/user-attachments/assets/b5f3b9ca-f41f-40b5-8606-38eb6485759b)
 
 ## 📚 BACKLOG
+![Image](https://github.com/user-attachments/assets/817b3988-aaab-4028-afbb-5d402faab6de)
+
 ![Image](https://github.com/user-attachments/assets/45063692-2602-4a8e-879a-09cfb453b42c)
 
 ## 🖥️ PROTÓTIPO E DOCUMENTAÇÃO
@@ -206,6 +208,8 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 - SQL Server (para o banco de dados)
 
 ## 🔧 COMO RODAR O PROJETO
+
+
 
 ```bash
 # Clone o repositório
