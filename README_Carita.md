@@ -40,6 +40,9 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 ## 📕 REQUISITOS NÃO FUNCIONAIS
 ![Image](https://github.com/user-attachments/assets/f4cb3a9d-0972-4638-9db1-d3fd842113ab)
 
+## 🎯 **Objetivos de Desenvolvimento Sustentável (ODS)**
+
+
 ## 📅 ENTREGA DAS SPRINTS
 
 <table>
