@@ -112,7 +112,7 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 > - Documentação geral: [clique aqui para acessar]()
 > - Técnicas de Programação: [clique aqui para acessar]()
 > - Interação Humano Computador: [clique aqui para acessar]()
-> - Banco de Dados não relacional - API: [clique aqui para acessar]()
+> - Banco de Dados relacional - API: [clique aqui para acessar]()
 
 ## 🛠️ TECNOLOGIAS UTILIZADAS
 
