@@ -1,15 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/c001c2d9-8e5d-4671-a09d-bad60fdf3811)
 
-<p align="center">
-  <a href="#sobre">Sobre</a>  |  
-  <a href="#publico">Publico</a>  |
-  <a href="#sprints">Sprints</a>  |
-  <a href="#backlog">Backlog</a>  |  
-  <a href="#prototipo-e-documentação">Protótipo & Documentação</a>  |  
-  <a href="#tecnologias-utilizadas">Tecnologias</a>  |  
-  <a href="#equipe">Equipe</a>
-</p>
-
 ## 📌 Status do Projeto : Em andamento
 
 ## 📖 SOBRE O PROJETO
