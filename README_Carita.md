@@ -113,7 +113,8 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 > - Técnicas de Programação: [clique aqui para acessar]()
 > - Interação Humano Computador: [clique aqui para acessar]()
 > - Banco de Dados relacional - API: [clique aqui para acessar]()
-> - Front-End: [clique aqui para acessar](https://github.com/Mayarasb/Front-end-Carita)
+> - Front-End: [clique aqui para acessar](https://github.com/Vanessa-Nobrega/frontend.Carita)
+> - Back-End: [clique aqui para acessar]()
 
 ## 🛠️ TECNOLOGIAS UTILIZADAS
 
