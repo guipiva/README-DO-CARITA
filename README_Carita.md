@@ -272,6 +272,11 @@ npm run build
 npm run serve:ssr:Projeto-carita
 ```
 
+## 📚 **Swagger - Documentação Interativa da API**
+- Acesse: [http://localhost:3008/api-docs](http://localhost:3008/api-docs)
+- Faça login pela rota `/api/auth/login` e use o botão **Authorize** para testar rotas protegidas.
+- Todas as rotas principais estão documentadas com exemplos.
+
 ## 📄 LICENÇA
 
 Este projeto está sob a licença [MIT](./LICENSE).
