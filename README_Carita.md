@@ -35,7 +35,7 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 ![Image](https://github.com/user-attachments/assets/d44ab38a-9592-43b1-b936-74cf2592c9cb)
 
 ## 📗 REQUISITOS FUNCIONAIS 
-![Image](https://github.com/user-attachments/assets/8d394a28-25de-45d2-8d8b-b0a685156071)
+![Image](https://github.com/user-attachments/assets/1c8ebbc4-104e-4e63-82a4-30846c74fd05)
 
 ## 📕 REQUISITOS NÃO FUNCIONAIS
 ![Image](https://github.com/user-attachments/assets/6b183711-7652-4406-b767-5d9554d39858)
