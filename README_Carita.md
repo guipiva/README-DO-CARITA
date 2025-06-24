@@ -38,7 +38,7 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
 ![Image](https://github.com/user-attachments/assets/8d394a28-25de-45d2-8d8b-b0a685156071)
 
 ## 📕 REQUISITOS NÃO FUNCIONAIS
-![Image]([REQNAOFUNCIONAIS.pdf](https://github.com/user-attachments/files/20893895/REQNAOFUNCIONAIS.pdf))
+![Image](https://github.com/user-attachments/files/20893903/REQNAOFUNCIONAIS.pdf)
 
 ## 🎯 **Objetivos de Desenvolvimento Sustentável (ODS)**
 
