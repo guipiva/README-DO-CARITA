@@ -157,7 +157,7 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
       <td>Fernando Ribeiro</td>
       <td>Product Owner</td>
       <td>
-        <a href="https://github.com/arieleperes" target="_blank">
+        <a href="https://github.com/FernandoRSantos" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
         </a>
       </td>
@@ -166,7 +166,7 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
       <td>Guilherme Pazetti</td>
       <td>Database Administrator</td>
       <td>
-        <a href="https://github.com/arieleperes" target="_blank">
+        <a href="https://github.com/Pazetti" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
         </a>
       </td>
@@ -193,7 +193,7 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
       <td>Vanessa Capuano</td>
       <td>Desenvolvedora Full Stack</td>
       <td>
-        <a href="https://github.com/arieleperes" target="_blank">
+        <a href="https://github.com/Vanessa-Nobrega" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
         </a>
       </td>
