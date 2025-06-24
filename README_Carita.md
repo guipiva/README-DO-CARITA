@@ -80,9 +80,9 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
   </tr>
   <tr>
     <td>Sprint 5</td>
-    <td>01/06 - 27/09</td>
+    <td>01/06 - 24/06</td>
     <td>Fase de teste final, documentação pronta e projeto integrado e funcionando</td>
-    <td>🟡 A iniciar</td>
+    <td>✅ Concluído</td>
   </tr>
 </table>
 
