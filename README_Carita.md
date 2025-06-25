@@ -164,7 +164,7 @@ Nosso público-alvo é composto por pessoas físicas engajadas com causas sociai
     </tr>
     <tr>
       <td>Guilherme Piva</td>
-      <td>Scrum Maste</td>
+      <td>Scrum Master</td>
       <td>
         <a href="https://github.com/guipiva" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white" alt="GitHub Badge">
